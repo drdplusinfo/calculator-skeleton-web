@@ -1,0 +1,12 @@
+{
+  "name": "drdplus/kalkulator-skeleton-web",
+  "license": "MIT",
+  "type": "project",
+  "description": "Testing content for a DrD plus calculator",
+  "keywords": [
+    "Drd plus",
+    "rules",
+    "calculator",
+    "skeleton"
+  ]
+}
